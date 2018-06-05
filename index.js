@@ -20,6 +20,7 @@ function divide (a, b)
 
 function inc(n)
 {
+  var n = 2
   return n++
 }
 
