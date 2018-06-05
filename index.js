@@ -22,7 +22,7 @@ function inc(n)
 {
   var n = 5
   return n++
-  console.log n
+  console.log (n)
 }
 
 function dec(n)
