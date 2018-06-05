@@ -20,9 +20,7 @@ function divide (a, b)
 
 function inc(n)
 {
-  var n = 5
   return n++
-  console.log (n)
 }
 
 function dec(n)
@@ -35,3 +33,4 @@ function makeInt(n)
   
 }
 
+console.log(inc)
